@@ -1,7 +1,7 @@
 [
   {
     "id_drama": "1",
-    "gambar": "../css/assets/Anak-jalanan.jpeg",
+    "gambar": "Anak-jalanan.jpeg",
     "judul": "Anak Jalanan",
     "genre": "Drama Roman Laga",
     "tanggal_tayang": "2015-10-12",
@@ -11,7 +11,7 @@
   },
   {
     "id_drama": "2",
-    "gambar": "../css/assets/Ayat-Ayat_Cinta.jpg",
+    "gambar": "Ayat-Ayat_Cinta.jpg",
     "judul": "Ayat-Ayat Cinta",
     "genre": "Roman Drama",
     "tanggal_tayang": "2008-02-28",
@@ -21,7 +21,7 @@
   },
   {
     "id_drama": "3",
-    "gambar": "../css/assets/Bintang-Di-Hatiku.jpg",
+    "gambar": "Bintang-Di-Hatiku.jpg",
     "judul": "Bintang di Hatiku",
     "genre": "Drama Keluarga",
     "tanggal_tayang": "2017-04-03",
@@ -31,7 +31,7 @@
   },
   {
     "id_drama": "4",
-    "gambar": "../css/assets/Cinta_Fitri_New.jpg",
+    "gambar": "Cinta_Fitri_New.jpg",
     "judul": "Cinta Fitri",
     "genre": "Drama Roman Keluarga Religi",
     "tanggal_tayang": "2007-04-02",
@@ -41,7 +41,7 @@
   },
   {
     "id_drama": "5",
-    "gambar": "../css/assets/Cinta_karena_Cinta.jpg",
+    "gambar": "Cinta_karena_Cinta.jpg",
     "judul": "Cinta karena Cinta",
     "genre": "Drama Roman ",
     "tanggal_tayang": "2019-08-01",
@@ -51,7 +51,7 @@
   },
   {
     "id_drama": "6",
-    "gambar": "../css/assets/Dunia_Terbalik.jpeg",
+    "gambar": "Dunia_Terbalik.jpeg",
     "judul": "Dunia Terbalik",
     "genre": "Komedi Drama",
     "tanggal_tayang": "2017-01-05",
@@ -61,7 +61,7 @@
   },
   {
     "id_drama": 7,
-    "gambar": "../css/assets/Csuperboy.jpeg",
+    "gambar": "Csuperboy.jpeg",
     "judul": "Cowokku Superboy",
     "genre": "Drama Roman",
     "tanggal_tayang": "2014-11-16",
@@ -71,7 +71,7 @@
   },
   {
     "id_drama": 8,
-    "gambar": "../css/assets/Ganteng-Ganteng_Serigala.jpg",
+    "gambar": "Ganteng-Ganteng_Serigala.jpg",
     "judul": "Ganteng-Ganteng Serigala Langit",
     "genre": "Drama Laga Misteri Horror Remaja",
     "tanggal_tayang": "2014-04-21",
@@ -81,7 +81,7 @@
   },
   {
     "id_drama": 9,
-    "gambar": "../css/assets/Hati_yang_Memilih.jpeg",
+    "gambar": "Hati_yang_Memilih.jpeg",
     "judul": "Hati yang Memilih",
     "genre": "Drama Roman Keluarga Fantasi",
     "tanggal_tayang": "2017-08-26",
@@ -91,7 +91,7 @@
   },
   {
     "id_drama": 10,
-    "gambar": "../css/assets/Ketika_Cinta_Bertasbih.jpg",
+    "gambar": "Ketika_Cinta_Bertasbih.jpg",
     "judul": "Kisah Cinta Anak Tiri",
     "genre": "Drama Roman",
     "tanggal_tayang": "2020-02-17",
@@ -101,7 +101,7 @@
   },
   {
     "id_drama": 11,
-    "gambar": "../css/assets/Melati_Untuk_Marvel.jpg",
+    "gambar": "Melati_Untuk_Marvel.jpg",
     "judul": "Melati untuk Marvel",
     "genre": "Drama Roman",
     "tanggal_tayang": "2008-10-23",
@@ -111,7 +111,7 @@
   },
   {
     "id_drama": 12,
-    "gambar": "../css/assets/Anak-Langit.jpeg",
+    "gambar": "Anak-Langit.jpeg",
     "judul": "Anak Langit",
     "genre": "Laga Roman Drama",
     "tanggal_tayang": "2017-02-20",
@@ -120,7 +120,7 @@
     "pemeran": "Stefan William. Marcella Daryanani. Hana Saraswati. Anthony Xie. Gerald Yo. Mario Maulana. Raya Kitty. Fathir Muchtar. Fera Feriska. Umar Lubis. Devi Permatasari. Angga Putra. Leon Dozan. Mezty Mez. Benny Ruswandi. Henny Timbul. Sasha Alexa. Merry Mustaf. Adipura. Aldo Bamar. Siska Magdalena. Firman Maliksyah. Audi Marissa. Fanny Fadillah. Cassandra Lee. George Rudy. Fendy Pradana. Kevin Kambey. Natalie Zenn. Esta Pramanita. Ije Kurniawan. Teuku Anwar. Willy Dozan."
   },{
     "id_drama": 13,
-    "gambar": "../css/assets/awas_ada_sule.jfif",
+    "gambar": "awas_ada_sule.jfif",
     "judul": "Awas Ada Sule",
     "genre": "Komedi Drama",
     "tanggal_tayang": "2009-06-10",
@@ -129,7 +129,7 @@
     "pemeran": "Hannah Al Rasyid. Tania Putri. Eko DJ. Astriana. Kang Uchi."
   },{
     "id_drama": 14,
-    "gambar": "../css/assets/Pangeran.jpg",
+    "gambar": "Pangeran.jpg",
     "judul": "Pangeran",
     "genre": "Drama Roman Laga Fantasi Komedi Religi",
     "tanggal_tayang": "2015-08-10",
@@ -138,7 +138,7 @@
     "pemeran": "Ricky Harun. Fita Anggriani. Handika Pratama. Nina Zatulini. Teddy Syach. Rifat Sungkar. Reza Aditya. Rangga Boevier. Ananda George."
   },{
     "id_drama": 15,
-    "gambar": "../css/assets/Cahaya_Cinta.jfif",
+    "gambar": "Cahaya_Cinta.jfif",
     "judul": "Cahaya Cinta",
     "genre": "Drama",
     "tanggal_tayang": "2011-05-09",
@@ -147,7 +147,7 @@
     "pemeran": "Sandara Dewi. Chicco Jerikho. Ryana Dea. Estelle Linden. Christ Laurent. Teuku Ryan. Desy Ratnasari. Gunawan. Rama Michael. Helsi Herlinda. Nella Anne. Didi Junaidi."
   },{
     "id_drama": 16,
-    "gambar": "../css/assets/Mawar_dan_Melati.jpeg",
+    "gambar": "Mawar_dan_Melati.jpeg",
     "judul": "Mawar dan Melati",
     "genre": "Drama Roman",
     "tanggal_tayang": "2017-05-05",
@@ -156,7 +156,7 @@
     "pemeran": "Natasha Wilona. Dinda Hauw. Aliando Syarief. Marcel Chandrawinata. Nunu Datau. Sigit Hardadi. Femmy Permatasari. Ersya Aurel. Megan Domani. Yoelitta Palar. Umar Lubis. Tasya. Annisa Aurelia. Kanaya."
   },{
     "id_drama": 17,
-    "gambar": "../css/assets/Tukang_Ojek_Pengkolan",
+    "gambar": "Tukang_Ojek_Pengkolan",
     "judul": "Tukang Ojek Pengkolan",
     "genre": "Drama Keluarga Komedi",
     "tanggal_tayang": "2015-04-25",
@@ -165,7 +165,7 @@
     "pemeran": "Eza Yayang. Andri Sulistiandri. Furry Setya . Fitri Ayu Maresa . Ranty Purnamasari. Adhe Nurul. Erik Estrada. Fajar Gomez. Hamas Syahid. Vanda Rainy. Hami Diah . Anastasja Rina. Bogel Alkatiri. Otong Lalo. Suparman . Engkar Nori. Ni Made Monica. Natasha Rizka Sakila. Henry Chan. Sandi Maryana. Tanih Dugal. Eloy Maharani. Fairus Aliya. Jonathan Alvaro. Ahmad Januar."
   },{
     "id_drama": 18,
-    "gambar": "../css/assets/Siapa_Suruh_Datang_Jakarta.jpg",
+    "gambar": "Siapa_Suruh_Datang_Jakarta.jpg",
     "judul": "Siapa Suruh Datang Jakarta",
     "genre": "Drama Roman Komedi",
     "tanggal_tayang": "2016-01-18",
@@ -174,7 +174,7 @@
     "pemeran": "Mas Cemen. Musdalifah Basri. Ephy Sekuriti. Bene Dion. Larasati Nugroho. Dahlia Poland. Fandy Christian. Fanny Fabriana. Ferry Maryadi. Arya Saloka."
   },{
     "id_drama": 19,
-    "gambar": "../css/assets/Andai_Ku_Tahu.jpg",
+    "gambar": "Andai_Ku_Tahu.jpg",
     "judul": "Andai Ku Tahu",
     "genre": "Drama Roman",
     "tanggal_tayang": "2007-06-12",
@@ -183,7 +183,7 @@
     "pemeran": "Raffi Ahmad. Acha Septriasa. Irwansyah. Inneke Koesherawati."
   },{
     "id_drama": 20,
-    "gambar": "../css/assets/Cinta_Kirana.jpg",
+    "gambar": "Cinta_Kirana.jpg",
     "judul": "Cinta Kirana",
     "genre": "Drama Roman",
     "tanggal_tayang": "2008-05-10",
