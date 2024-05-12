@@ -1,9 +1,9 @@
 <br />
 <p align="center">
     <a href="https://github.com/RegisSRifaldi/WebDramaIndonesia"> 
-    <img src="https://github.com/RegisSRifaldi/Halaman-awal.PNG?raw=true" alt="Halaman Awal Website Kedai Bubur Regis" width="300" height="300">
+    <img src="https://github.com/RegisSRifaldi/WebDramaIndonesia/blob/main/api/readapi/layout/css/img/Halaman-awal.PNG?raw=true" alt="Indonesian Drama Web Home Page" width="300" height="300">
     </a>
-        <p align="center">A platform to discover Indonesian drama websites.</p>
+        <p align="center">A platform to discover Indonesian Drama Websites.</p>
 </p>
 
 ## Table Of Contents
