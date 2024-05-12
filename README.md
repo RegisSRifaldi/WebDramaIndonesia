@@ -1,7 +1,6 @@
 <br />
 <p align="center">
     <a href="https://github.com/RegisSRifaldi/WebDramaIndonesia"> 
-
         <img src="https://github.com/RegisSRifaldi/Web-Programming-Design-and-Web-Service_finalproject_semester3_kedaibuburregis/blob/main/images/halaman-awal.PNG?raw=true" alt="Halaman Awal Web Drama Indonesia">
     </a>
     <p align="center">A website for small businesses that operate porridge stalls.</p>
