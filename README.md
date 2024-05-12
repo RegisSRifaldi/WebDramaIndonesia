@@ -13,6 +13,7 @@
 - [Getting Started](#getting-started)
   - [Installation](#installation)
 - [Authors](#authors)
+- [Disclaimer](#disclaimer)
 
 ## Built With
 
