@@ -50,7 +50,7 @@ Technologies used in the project:
 
 ## Disclaimer
 
-- This project is currently only accessible on localhost. It was developed as my final project for the Web Programming, Design, and Web Services course in my third semester.
+- This project is currently only accessible on localhost. It was developed as my final project for the Application Programming Interface course in my fourth semester.
 
 
 Thank You :)
